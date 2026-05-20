@@ -6,7 +6,6 @@
 * **Frontend:** HTML5, CSS3, Bootstrap
 * **Database:** MySQL
 * **Version Control:** Git & GitHub
-
 أقسام المشروع الرئيسيسة
 * **Navbar:** شريط تنقل علوي متجاوب للانتقال بين صفحات النظام.
 * **Main Dashboard:** الواجهة الرئيسية لعرض محتويات وجداول البيانات.
